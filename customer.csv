@@ -1,0 +1,26 @@
+customer_id,name,email,age,city,signup_date,total_spent
+1001,Sargun Kaur,sargun@example.com,19,Munich,2026-01-15,245.50
+1002,Alex Smith,alex.smith@gmail.com,25,Berlin,2026-02-03,120.00
+1003,Emma Brown,emma@gmail.com,31,Hamburg,03/02/2026,540.75
+1004,john miller,john.miller@gmail.com,28,berlin,2026-03-12,85.20
+1005,Sophia Wilson,,22,Munich,2026-03-18,190.00
+1006,Liam Davis,liam.gmail.com,35,Frankfurt,2026-04-01,720.40
+1007,Olivia Taylor,olivia@gmail.com,,Hamburg,2026-04-05,310.00
+1008,Noah Anderson,noah@gmail.com,twenty,Munich,2026-04-09,150.00
+1009,Ava Thomas,ava@gmail.com,27, BERLIN ,2026-04-15,430.60
+1010,Ethan Moore,ethan@gmail.com,43,Frankfurt,15-04-2026,980.00
+1011,mia jackson,mia@gmail.com,24,munich,2026/04/20,220.50
+1012,Lucas Martin,lucas@gmail.com,29,Hamburg,2026-04-25,-75.00
+1013,Isabella Lee,isabella@gmail,32,Berlin,2026-05-01,610.30
+1014,Henry White,henry@gmail.com,150,Munich,2026-05-04,350.00
+1015,,charlotte@gmail.com,26,Frankfurt,2026-05-08,280.40
+1016,James Harris,james@gmail.com,30,,2026-05-12,410.00
+1017,Amelia Clark,amelia@gmail.com,23,Hamburg,,175.50
+1018,Ben Lewis,ben@gmail.com,37,Berlin,2026-05-20,
+1019,Emily Walker, emily@gmail.com ,21,MUNICH,2026-05-25,195.00
+1020,Daniel Hall,daniel@gmail.com,34,Frankfurt,2026-05-30,510.80
+1003,Emma Brown,emma@gmail.com,31,Hamburg,03/02/2026,540.75
+1022,  Oliver Young,oliver@gmail.com,28,BERLIN,2026-06-02,330.00
+1023,Grace King,GRACE@GMAIL.COM,25,Munich,2026-06-05,290.00
+1024,Leo Wright,leo@gmail.com,-4,Hamburg,2026-06-08,170.00
+1025,Lily Green,lily@gmail.com,27,Frankfurt,2026-13-10,460.20
